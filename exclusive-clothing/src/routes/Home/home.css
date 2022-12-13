@@ -1,0 +1,21 @@
+.hero-section {
+	background-image: url('../../assets/pexels-furkanfdemir-6206978.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 95vh;
+	width: 100%;
+}
+
+.hero-text {
+	margin-top: 650px;
+}
+
+.hero-title {
+	font-family: 'Vollkorn SC';
+}
+
+.hero-paragraph {
+	font-family: 'Mate';
+	font-size: 24px;
+}
